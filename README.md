@@ -1,6 +1,6 @@
 # chrome-extension-save-tabs
 
-A Short JavaScript Project
+A Beginner level JavaScript Project
 
 open 
 chrome://extensions/
